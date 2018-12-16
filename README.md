@@ -47,7 +47,7 @@ Syntax highlighted code block
  
 ### Download:
 
-![download])(https://www.lua.org/images/downloadarrow.png)
+
 
 ### Licence:
   
