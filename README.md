@@ -44,7 +44,7 @@ your main goal as a player is to survive all the waves of zombies that come and 
 _Get the last version of the game [Here](https://www.google.com/)_
 
 ### Licence:
-```markdown  
+ 
 MIT License Copyright (c) 2018 Survive by GeSeGames
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -64,5 +64,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
+
 
