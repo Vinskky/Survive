@@ -12,10 +12,11 @@ The game focus on the management of all kind of resources that villagers recolec
 
 ### TEAM
 
+The game was made by two UPC-CITM students.
 
-ADD TEAM IMAGE HERE
+- Delgado Vargas, Sebastián: Code and design
+- Gil Calvo, Gerard: Code and design
 
-### Game
 ```markdown
 Syntax highlighted code block
 
@@ -41,16 +42,28 @@ Syntax highlighted code block
 
 ### Controls:
 
- - Drag the scroll bar to decide wich material should have more possibilities that villagers pick.
- - you can buy towers and generators 
- - upgrade your towers to increase the ammount of solides that are defending the shelter.
+ - **Arrows**: to move camera
+ - **Left mouse click**: to interact with UI
+ 
+### How to play:
+ 
+ your main goal as a player is to survive all the waves of zombies that come and try to kill your villagers. To do it here you have some tips and that will help you to achive the main goal. 
+ 
+ - Villagers pick wood to repair the fence when suffers damage by the zombies.
+ - Villagers pick ammo and with this, soliders in the towers are able to shoot the zombies.
+ - Every day if you survive 3 of your villagers will runaway to take the helicopter.
+ - At the end of every day you will win some gold, spend it wisely.
+ - Towers can have up to 3 soldiers if you upgrade them.
+ - zombies can target towers so be carefull where you put them!
+ - generator
+ 
  
 ### Download:
 
-**[Here](https://www.google.com/)** 
+_Get the last version of the game [Here](https://www.google.com/)_
 
 ### Licence:
-  
+```markdown  
 MIT License Copyright (c) 2018 Survive by GeSeGames
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -70,5 +83,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+```
 
