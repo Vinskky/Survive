@@ -46,9 +46,9 @@ Syntax highlighted code block
  - upgrade your towers to increase the ammount of solides that are defending the shelter.
  
 ### Download:
-```markdown
-# **[Here](https://www.google.com/)** 
-```
+
+**[Here](https://www.google.com/)** 
+
 ### Licence:
   
 MIT License Copyright (c) 2018 Survive by GeSeGames
