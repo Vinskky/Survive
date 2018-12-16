@@ -17,25 +17,6 @@ The game was made by two UPC-CITM students.
 - Delgado Vargas, Sebastián: Code and design
 - Gil Calvo, Gerard: Code and design
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
 ### Gameplay trailer
 
 <iframe align="center" width="650" height="365" src="https://www.youtube.com/embed/FZuUiyN7cbg" frameborder="0" allowfullscreen></iframe>
@@ -46,9 +27,9 @@ Syntax highlighted code block
  - **Left mouse click**: to interact with UI
  
 ### How to play:
-```markdown 
+
 your main goal as a player is to survive all the waves of zombies that come and try to kill your villagers. To do it here you have some tips and that will help you to achive the main goal. 
-``` 
+ 
  - Villagers pick wood to repair the fence when suffers damage by the zombies.
  - Villagers pick ammo and with this, soliders in the towers are able to shoot the zombies.
  - Every day if you survive 3 of your villagers will runaway to take the helicopter.
