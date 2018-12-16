@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to survive
 
-You can use the [editor on GitHub](https://github.com/Vinskky/Survive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Survive is a game developed by two UPC students for the subject of artificial inteligence. During this subject we had to design and 
+program an environment to acomplish all what we learned during the subject.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We implemented a survivor game mixing some tower defense elements where the player has to survive all the enemies wave that come and 
+try to whipeout the shelter. 
+
+You lose when the barreier breaks by the zombies and win when you manage to make that all the villagers of the shelter survive by going to the rescue helicopter. 
+
+The game focus on the management of all kind of resources that villagers recolect during the day. 
 
 ### Markdown
 
@@ -25,8 +31,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+```markdown
+### Gameplay trailer
+
 <iframe width="650" height="365" src="https://www.youtube.com/embed/FZuUiyN7cbg" frameborder="0" allowfullscreen></iframe>
 
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
