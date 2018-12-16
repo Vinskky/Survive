@@ -25,7 +25,7 @@ The game was made by two UPC-CITM students.
 
  - **Arrows**: to move camera
  - **Left mouse click**: to interact with UI
- - **Esc**: goes to menu overlay
+ - **Esc**: goes to menu
  
 ### How to play:
 
