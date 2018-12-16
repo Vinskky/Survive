@@ -17,10 +17,6 @@ The game was made by two UPC-CITM students.
 - Delgado Vargas, Sebastián: Code and design
 - Gil Calvo, Gerard: Code and design
 
-### Gameplay trailer
-
-<iframe align="center" width="650" height="365" src="https://www.youtube.com/embed/FZuUiyN7cbg" frameborder="0" allowfullscreen></iframe>
-
 ### Controls:
 
  - **Arrows**: to move camera
