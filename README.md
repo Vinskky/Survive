@@ -10,9 +10,10 @@ You lose when the barreier breaks by the zombies and win when you manage to make
 
 The game focus on the management of all kind of resources that villagers recolect during the day. 
 
-### Markdown
+### TEAM
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+ADD TEAM IMAGE HERE
 
 ```markdown
 Syntax highlighted code block
@@ -37,12 +38,34 @@ Syntax highlighted code block
 
 <iframe align="center" width="650" height="365" src="https://www.youtube.com/embed/FZuUiyN7cbg" frameborder="0" allowfullscreen></iframe>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Controls:
 
-### Jekyll Themes
+ - Drag the scroll bar to decide wich material should have more possibilities that villagers pick.
+ - you can buy towers and generators 
+ - upgrade your towers to increase the ammount of solides that are defending the shelter.
+ 
+ ### Licence
+ 
+ MIT License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Vinskky/Survive/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Copyright (c) 2018 Survive by GeSeGames
 
-### Support or Contact
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
