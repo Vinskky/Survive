@@ -45,7 +45,7 @@ Syntax highlighted code block
  - you can buy towers and generators 
  - upgrade your towers to increase the ammount of solides that are defending the shelter.
  
- ### Download:
+### Download:
 
 ![download])(https://www.lua.org/images/downloadarrow.png)
 
