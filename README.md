@@ -46,9 +46,9 @@ Syntax highlighted code block
  - **Left mouse click**: to interact with UI
  
 ### How to play:
- 
- your main goal as a player is to survive all the waves of zombies that come and try to kill your villagers. To do it here you have some tips and that will help you to achive the main goal. 
- 
+```markdown 
+your main goal as a player is to survive all the waves of zombies that come and try to kill your villagers. To do it here you have some tips and that will help you to achive the main goal. 
+``` 
  - Villagers pick wood to repair the fence when suffers damage by the zombies.
  - Villagers pick ammo and with this, soliders in the towers are able to shoot the zombies.
  - Every day if you survive 3 of your villagers will runaway to take the helicopter.
