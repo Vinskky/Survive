@@ -32,11 +32,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-```markdown
+
 ### Gameplay trailer
 
 <iframe align="center" width="650" height="365" src="https://www.youtube.com/embed/FZuUiyN7cbg" frameborder="0" allowfullscreen></iframe>
-```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
