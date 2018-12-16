@@ -1,4 +1,4 @@
-## Welcome to survive
+## Welcome to Zombie Holocaust
 
 Survive is a game developed by two UPC students for the subject of artificial inteligence. During this subject we had to design and 
 program an environment to acomplish all what we learned during the subject.
@@ -26,6 +26,7 @@ The game was made by two UPC-CITM students.
  - **Arrows**: to move camera
  - **Left mouse click**: to interact with UI
  - **Esc**: goes to menu
+ 
  
 ### How to play:
 
