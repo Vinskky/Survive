@@ -15,6 +15,7 @@ The game focus on the management of all kind of resources that villagers recolec
 
 ADD TEAM IMAGE HERE
 
+### Game
 ```markdown
 Syntax highlighted code block
 
@@ -44,7 +45,11 @@ Syntax highlighted code block
  - you can buy towers and generators 
  - upgrade your towers to increase the ammount of solides that are defending the shelter.
  
- ### Licence
+ ## Download
+ 
+ ![Image])(https://www.lua.org/images/downloadarrow.png)
+ 
+ ## Licence
  
  MIT License Copyright (c) 2018 Survive by GeSeGames
 
