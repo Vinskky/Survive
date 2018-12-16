@@ -45,13 +45,13 @@ Syntax highlighted code block
  - you can buy towers and generators 
  - upgrade your towers to increase the ammount of solides that are defending the shelter.
  
-### Download
- 
- ![download])(https://www.lua.org/images/downloadarrow.png)
- 
-### Licence
- 
- MIT License Copyright (c) 2018 Survive by GeSeGames
+ ### Download:
+
+![download])(https://www.lua.org/images/downloadarrow.png)
+
+### Licence:
+  
+MIT License Copyright (c) 2018 Survive by GeSeGames
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
